@@ -1,6 +1,7 @@
 # KLV-Airedale-sr14
 
 - script "iso_grubconfig" which will create boot lines for "grub.cfg" in a file named "iso_grub_config.txt"
+- run the script in the location where the ISO is located.
 
 ```
 #!/bin/bash
