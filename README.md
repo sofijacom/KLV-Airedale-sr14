@@ -7,7 +7,7 @@
 #!/bin/bash
 ## iso_grubconfig
 # Determine FirstRib grub stanzas for menu.lst and grub.conf
-# Revision Date: 13 September 2024
+# Revision Date: 13 September 2024 Sofiya
 # Copyright: Licence: MIT
 
 ## Run this script from your FirstRib distro installation directory
