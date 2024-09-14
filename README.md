@@ -32,7 +32,7 @@ from this build directory and needed modules and firmware are present:
 "
 if [ "$bootiso" != '*.iso' ];then
 isotext="
-#############################OR grub.cfg (BOOT from ISO):
+############################# grub.cfg (BOOT from ISO):
 menuentry \"${subdir}\" {
   iso_path=\"/${subdir}/${bootiso}\"
   export iso_path
